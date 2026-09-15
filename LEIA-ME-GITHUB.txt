@@ -1,0 +1,15 @@
+PYTHON LABS — COMO PUBLICAR NO GITHUB PAGES
+
+Envie TODOS estes arquivos para a mesma pasta/raiz do repositório:
+
+index.html
+recursos-digitais.html
+logo-python-labs.png
+foto-perfil.jpg
+jogo-da-memoria.pdf
+arvore-dos-sentimentos.pdf
+monstrinhos-para-colorir.pdf
+
+Não altere os nomes dos arquivos.
+
+Depois de enviar os arquivos, aguarde o GitHub Pages atualizar o site.
